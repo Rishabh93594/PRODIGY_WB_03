@@ -1,2 +1,2 @@
-# PRODIGY_WB_03
+# PRODIGY_WD_03
 Tic Tac Toe game
